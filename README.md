@@ -1,4 +1,4 @@
-## CAUTION: The converted/re-encoded files are placed in the same directory where the original was and **the originals are automatically deleted**. This means that some files *could* be lost if something goes wrong. Use at your own risk.
+## CAUTION: The converted/re-encoded files are placed in the same directory where the originals were and **the originals are automatically deleted**. This means that some files *could* be lost if something goes wrong. Use at your own risk.
 
 ## What is this?
 
